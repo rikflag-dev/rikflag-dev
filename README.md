@@ -70,9 +70,6 @@ Atualmente Técnico em **Desenvolvimento de Sistemas** e Estudante de **Ciência
 
 ## 📊 Meus Gráficos Dinâmicos
 
-### Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErikBandeira&layout=compact&langs_count=10&title_color=00CFFF&text_color=ffffff&bg_color=0d1117&hide_border=true)
-
 ### Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErikBandeira&show_icons=true&theme=radical&hide_border=true)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=ErikBandeira&theme=onedark&margin-w=8&margin-h=8)
