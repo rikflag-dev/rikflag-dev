@@ -110,4 +110,4 @@ Atualmente Técnico em **Desenvolvimento de Sistemas** e Estudante de **Ciência
 ✨ *“A tecnologia é o caminho entre a imaginação e a realidade.”* 🚀
 
 <!-- Banner de encerramento -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,100:6A0DAD&height=200&section=footer&text=A%20my%20Caminho%20da%20Conquista%20!&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,100:6A0DAD&height=200&section=footer&text=A%20Caminho%20da%20Conquista!&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65)
