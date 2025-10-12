@@ -66,13 +66,7 @@ Atualmente Técnico em **Desenvolvimento de Sistemas** e Estudante de **Ciência
 ![Responsividade](https://img.shields.io/badge/Responsividade-00BFFF?style=for-the-badge&logo=responsive-design&logoColor=white)
 ![Acessibilidade](https://img.shields.io/badge/Acessibilidade-FFD700?style=for-the-badge&logo=accessibility&logoColor=black)
 
----
-
-## 📊 Meus Gráficos Dinâmicos
-
-### Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rikflag-dev&show_icons=true&theme=radical&hide_border=true)
-![Trophy](https://github-profile-trophy.vercel.app/?username=ErikBandeira&theme=onedark&margin-w=8&margin-h=8)
+----
 
 ### 🔥 Estatísticas Gerais
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rikflag-dev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
@@ -97,7 +91,7 @@ Atualmente Técnico em **Desenvolvimento de Sistemas** e Estudante de **Ciência
 ### ⚙️ Contribuições Recentes
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rikflag-dev&theme=react-dark&hide_border=true)
 
----
+----
 
 ## 🧭 Objetivo
 
