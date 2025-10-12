@@ -71,7 +71,7 @@ Atualmente Técnico em **Desenvolvimento de Sistemas** e Estudante de **Ciência
 ## 📊 Meus Gráficos Dinâmicos
 
 ### Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErikBandeira&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rikflag-dev&show_icons=true&theme=radical&hide_border=true)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=ErikBandeira&theme=onedark&margin-w=8&margin-h=8)
 
 ---
