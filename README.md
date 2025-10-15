@@ -2,6 +2,10 @@
 
 # Erik Bandeira (RIKING)
 
+Desenvolvendo Soluções.
+
+---
+
 ## Minhas Tecnologias
 
 ### Linguagens
