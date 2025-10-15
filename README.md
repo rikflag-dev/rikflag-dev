@@ -1,6 +1,8 @@
 
 
-# **Erik Bandeira (RIKING)**
+**Erik Bandeira (RIKING)**
+
+---
 
 ## Minhas Tecnologias
 
