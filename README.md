@@ -2,8 +2,6 @@
 
 # **Erik Bandeira (RIKING)**
 
----
-
 ## Minhas Tecnologias
 
 ### Linguagens
