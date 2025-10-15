@@ -8,26 +8,6 @@ Atualmente Técnico em **Desenvolvimento de Sistemas** e Estudante de **Ciência
 
 ---
 
-## 🚀 Sobre mim
-- 💻 Programo em **Java** e **JavaScript**  
-- 📘 Aprendendo **C++** e **TypeScript**  
-- ⚙️ Entendo de **desenvolvimento mobile** com **React Native** e **Expo**  
-- 🌐 Experiência com **desenvolvimento web** usando **React** e frameworks modernos  
-- 🌱 Estudando **Vue.js** e **Vite** para dominar o ecossistema moderno de build  
-- 🔌 Aprendendo **eletrônica** com **Arduino** e **Raspberry Pi Pico W**, programando em **C++**  
-- 🤖 Estudando **Inteligência Artificial** e como ela funciona internamente  
-- 🐳 Em processo de domínio de **Docker** e **n8n** para automação de fluxos inteligentes  
-- 🗃️ Trabalho com bancos de dados **SQL** e **NoSQL**  
-  - SQL: **MariaDB**, **PostgreSQL**, **MySQL**  
-  - NoSQL: **MongoDB**  
-- ☁️ Integro aplicações com **Supabase** para autenticação, APIs e persistência moderna  
-- 🌐 Entendo de **Node.js**, domino **Express.js** e me aprofundo em **Spring Boot**  
-- 🎨 Entendo **Figma**, **análise de requisitos** e **documentação técnica**  
-- 🧩 Sempre visando **responsividade**, **acessibilidade** e **experiência do usuário**  
-- 🧠 Busco dominar **o máximo da tecnologia**, unificando software, hardware e automação.
-
----
-
 ## 🧠 Minhas Tecnologias
 
 ### 💬 Linguagens
