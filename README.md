@@ -1,22 +1,18 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=00CFFF&height=200&section=header&text=Erik%20Bandeira%20(RIKING)&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-# 👋 Olá! Eu sou o **Erik Bandeira (RIKING)**
 
-Sou apaixonado por **tecnologia**, **engenharia de software** e **automação**.  
-Meu foco é evoluir constantemente até me tornar um **Desenvolvedor Full Stack completo**, dominando todo o ecossistema da tecnologia, do **frontend ao backend**, da **automação à eletrônica embarcada**.
-Atualmente Técnico em **Desenvolvimento de Sistemas** e Estudante de **Ciência e Tecnologia**.
+# **Erik Bandeira (RIKING)**
 
 ---
 
-## 🧠 Minhas Tecnologias
+## Minhas Tecnologias
 
-### 💬 Linguagens
+### Linguagens
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### ⚙️ Frameworks e Ferramentas
+### Frameworks e Ferramentas
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -26,14 +22,14 @@ Atualmente Técnico em **Desenvolvimento de Sistemas** e Estudante de **Ciência
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
-### 💾 Banco de Dados
+### Banco de Dados
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### 🔧 Ferramentas e Tecnologias Extras
+### Ferramentas e Tecnologias Extras
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -48,27 +44,27 @@ Atualmente Técnico em **Desenvolvimento de Sistemas** e Estudante de **Ciência
 
 ----
 
-### 🔥 Estatísticas Gerais
+### Estatísticas Gerais
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rikflag-dev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 ---
 
-### 🏆 Conquistas e Troféus
+### Conquistas e Troféus
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rikflag-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8)
 
 ---
 
-### 💡 Linguagens Mais Utilizadas
+### Linguagens Mais Utilizadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikflag-dev&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-### ⏰ Atividade Semanal (Commits por Hora e Dia)
+### Atividade Semanal (Commits por Hora e Dia)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rikflag-dev&theme=radical&hide_border=true)
 
 ---
 
-### ⚙️ Contribuições Recentes
+### Contribuições Recentes
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rikflag-dev&theme=react-dark&hide_border=true)
 
 ----
@@ -79,15 +75,12 @@ Atualmente Técnico em **Desenvolvimento de Sistemas** e Estudante de **Ciência
 
 ---
 
-## 📫 Contato
+## 🌐 Contato
 
-- 🌐 Portfólio: [https://seusite.com](https://seusite.com)  
-- 💼 LinkedIn: [https://linkedin.com/in/erikbandeira](https://www.linkedin.com/in/erik-bandeira-860315363)
-- 📧 E-mail: **erikbandeira298@gmail.com**
+- Portfólio: [https://seusite.com](https://seusite.com)  
+- LinkedIn: [https://linkedin.com/in/erikbandeira](https://www.linkedin.com/in/erik-bandeira-860315363)
+- E-mail: **erikbandeira298@gmail.com**
 
 ---
 
-✨ *“A tecnologia é o caminho entre a imaginação e a realidade.”* 🚀
-
-<!-- Banner de encerramento -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00CFFF,100:6A0DAD&height=200&section=footer&text=A%20Caminho%20da%20Conquista!&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65)
+*“A tecnologia é o caminho entre a imaginação e a realidade.”* 
