@@ -1,9 +1,8 @@
 
 
 # Erik Bandeira (FLAG)
----
 Desenvolvendo Soluções.
-
+-
 ## Minhas Tecnologias
 
 ### Linguagens
