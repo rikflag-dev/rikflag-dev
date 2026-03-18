@@ -44,33 +44,6 @@ Desenvolvendo Soluções.
 ![Responsividade](https://img.shields.io/badge/Responsividade-00BFFF?style=for-the-badge&logo=responsive-design&logoColor=white)
 ![Acessibilidade](https://img.shields.io/badge/Acessibilidade-FFD700?style=for-the-badge&logo=accessibility&logoColor=black)
 
-----
-
-### Estatísticas Gerais
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rikflag-dev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
----
-
-### Conquistas e Troféus
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rikflag-dev&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8)
-
----
-
-### Linguagens Mais Utilizadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikflag-dev&layout=compact&theme=radical&hide_border=true)
-
----
-
-### Atividade Semanal (Commits por Hora e Dia)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rikflag-dev&theme=radical&hide_border=true)
-
----
-
-### Contribuições Recentes
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rikflag-dev&theme=react-dark&hide_border=true)
-
-----
-
 ## 🧭 Objetivo
 
 > “Meu objetivo é dominar o máximo possível de tecnologias — backend, frontend, mobile, automação e eletrônica — e me tornar um **Full Stack Developer completo**, capaz de criar soluções inovadoras e integradas entre software e hardware, sempre prezando pela **responsividade** e **acessibilidade** em todas as interfaces.”
